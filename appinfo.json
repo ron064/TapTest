@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ron64",
+    "longName": "TapExample",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "TapExample",
+    "uuid": "3fbbe1a9-bff1-412b-a813-9b4600b9b46b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
